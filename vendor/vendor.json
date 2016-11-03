@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "LIEX/dDzkTCsgDmAYMqxvq4zt5M=",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "380f64d344b252a007a59baa61f31820f59cba89",
+			"revisionTime": "2016-10-31T14:45:02Z"
+		},
+		{
+			"checksumSHA1": "ljZrmD7pmMXAkGNfp6IEzj31fY8=",
+			"path": "github.com/joho/godotenv",
+			"revision": "4ed13390c0acd2ff4e371e64d8b97c8954138243",
+			"revisionTime": "2015-09-07T01:02:28Z"
+		}
+	],
+	"rootPath": "github.com/fmuacm/capitalize"
+}
